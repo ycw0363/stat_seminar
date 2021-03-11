@@ -4,6 +4,5 @@ hi everyone
 
 ## subtitle
 
- - test 1
- - test 2
- - 
+ - 마크다운 연습
+ - __볼드체__
